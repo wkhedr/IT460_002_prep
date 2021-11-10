@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IT460_002_prep</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="say_hello">Book Titles</string>
+    <string name="hi_name">Hi </string>
+    <string-array name="topics">
+        <item>Networks</item>
+        <item>Graphics</item>
+        <item>Programming</item>
+    </string-array>
+</resources>

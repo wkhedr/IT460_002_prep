@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IT460_002_prep</string>
+    <string name="enter_your_name">أدخل الاسم</string>
+    <string name="say_hello">مرحبا</string>
+    <string name="hi_name">مرحبا </string>
+    <string-array name="topics">
+        <item>شبكات</item>
+        <item>رسم بالحاسب</item>
+        <item>برمجة</item>
+    </string-array>
+</resources>
